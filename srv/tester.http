@@ -91,3 +91,5 @@ http://localhost:4004/odata/v4/CatalogService/largestOrder()
 
 ###Get Custom entity data
 http://localhost:4004/odata/v4/MyService/EmployeeSrv
+
+### Get All employee data
